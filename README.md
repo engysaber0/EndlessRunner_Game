@@ -53,8 +53,4 @@ This project demonstrates core game development concepts such as camera followin
 
 ---
 
-## 🚀 How to Run the Game
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/EndlessRunner_Game.git
